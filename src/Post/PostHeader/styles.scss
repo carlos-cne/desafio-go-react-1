@@ -1,0 +1,23 @@
+div.postHeader {
+  display: flex;
+  flex-direction: line;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+img.avatarImg {
+  border-radius: 50%;
+}
+
+div.postAuthor {
+  margin: 20px;
+}
+
+p {
+  margin: 0 !important;
+}
+
+p.elapsedTime {
+  font-size: 12px;
+  color: #d3d3d3;
+}
